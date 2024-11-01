@@ -33,9 +33,8 @@ Here’s how our model addresses the challenges of sinkhole detection:
 
 
 
-
-
-Publication: [A Depth-Wise Separable U-Net Architecture with Multiscale Filters to Detect Sinkholes](https://www.mdpi.com/2072-4292/15/5/1384)
+# Publication
+[A Depth-Wise Separable U-Net Architecture with Multiscale Filters to Detect Sinkholes](https://www.mdpi.com/2072-4292/15/5/1384)
 
 
 
