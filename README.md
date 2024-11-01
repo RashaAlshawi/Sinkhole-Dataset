@@ -32,6 +32,10 @@ Here’s how our model addresses the challenges of sinkhole detection:
 ** Scalability: Can be easily integrated into existing infrastructure monitoring solutions, enabling widespread adoption.
 
 
+![Alt text](samples.png)
+
+
+Visual comparisons among the segmentation models on the sinkhole dataset: (a) the original images; (b) the ground truth; (c) U-Net; (d) Depth-Separable U-Net; (e) Attention U-Net; (f) Inception U-Net; and (g) our model’s results.
 
 # Publication
 [A Depth-Wise Separable U-Net Architecture with Multiscale Filters to Detect Sinkholes](https://www.mdpi.com/2072-4292/15/5/1384)
